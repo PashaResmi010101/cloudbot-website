@@ -86,7 +86,7 @@ Vote Cloud BOT</a>
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
-                  <img src="https://media.discordapp.net/attachments/1224833595886145598/1272181684791545869/logo2.png?ex=66ba0b05&is=66b8b985&hm=d21dfe5f076777e3a73b0be5df7d8df069a12e2e9e501aa0c05f303fa8812c28&=&format=webp&quality=lossless&width=473&height=473"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
+                  <img src="https://cdn.discordapp.com/attachments/1224833595886145598/1272183621436051518/logo2.png?ex=66ba0cd3&is=66b8bb53&hm=11d7406191776e6744de86a45f69687da0b36ae7b1ec533f1ee761eb181d16dd&"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Best Your Bot</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Cloud BOT, the best and most up-to-date bot?</p>
                 </div>
