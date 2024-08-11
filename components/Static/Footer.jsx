@@ -38,7 +38,7 @@ export default function Footer() {
                             <div>
                                 <Link href="COOMİNG SOON">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Vote Bot
+                                        Vote Cloud BOT
                                     </a>
                                 </Link>
                             </div>
