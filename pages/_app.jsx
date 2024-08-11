@@ -23,7 +23,7 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Home",
       icon: "fal fa-home",
       activeIcon: "fa fa-home",
-      href: "help",
+      href: "home",
     },
     {
       link: true,
