@@ -23,14 +23,14 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Home",
       icon: "fal fa-home",
       activeIcon: "fa fa-home",
-      href: "c!",
+      href: "/help",
     },
     {
       link: true,
       name: "Commands",
       icon: "fa fa-list-alt",
       activeIcon: "fa fa-list-alt",
-      href: "c!help",
+      href: "/commands",
     },
     {
       link: true,
