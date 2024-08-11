@@ -63,7 +63,7 @@ Vote Cloud BOT</a>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Universal</p>
-                  <p className="text-gray-500 line-clamp-4">asdas</p>
+                  <p className="text-gray-500 line-clamp-4">Cloud bot is a public bot with features such as moderation, registration, entertainment and so on. I would like to thank everyone who uses it ^^</p>
                 </div>
               </div>
               <div>
