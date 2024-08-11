@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="apple-touch-icon" href="public/img/logo2.png" />
+          <link rel="apple-touch-icon" href="/img/logo2.png" />
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
@@ -28,7 +28,7 @@ class MyDocument extends Document {
             property="og:description"
             content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
           />
-          <meta property="og:image" content="img/logo2.png" />
+          <meta property="og:image" content="public/img/logo2.png" />
           <meta property="og:image:alt" content="Cloud BOT" />
           <meta property="og:locale" content="en_GB" />
           <meta
@@ -36,7 +36,7 @@ class MyDocument extends Document {
             content="Cloud BOT"
           />
           <meta name="theme-color" content="#087ddd" />
-          <link rel="icon" href="/img/logo2.png" type="image/x-icon" />
+          <link rel="icon" href="public/img/logo2.png" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
             rel="stylesheet"
