@@ -11,7 +11,7 @@ export default function Footer() {
                     <div className="lg:grid lg:grid-cols-6 gap-20">
                         <div className="col-span-3">
                             <div className="flex items-center space-x-5">
-                                <img src="public/img/cloudlogo1.jpg" className="rounded-full w-12" />
+                                <img src="public/img/logo2.png" className="rounded-full w-12" />
                                 <p className="font-semibold text-xl text-white">Cloud BOT</p>
                             </div>
                             <Menu as="div" className="relative mt-3 inline-block text-left">
