@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="apple-touch-icon" href="/img/logo2.png" />
+          <link rel="apple-touch-icon" href="https://media.discordapp.net/attachments/1117200488916598844/1274337148010627174/logo2.png?ex=66c1e274&is=66c090f4&hm=4007157fa47830d073f17b45d625f40740173455f72996845a6dcf1db6c965b2&=&format=webp&quality=lossless&width=473&height=473" />
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
