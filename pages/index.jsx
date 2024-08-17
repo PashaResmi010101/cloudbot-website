@@ -7,7 +7,7 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-      <img width="500" src="https://media.discordapp.net/attachments/1117200488916598844/1274326191188475954/K2rq5h06ZmTNsid0kz_static.png?ex=66c1d83f&is=66c086bf&hm=7ac948eb8e676ede6207b64293c59f21576d3c5e52f58bdb4e7aee98e8111750&=&format=webp&quality=lossless" />
+      <img width="500" src="img/bck.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
           CLOUD BOT
