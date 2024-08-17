@@ -16,7 +16,7 @@ class MyDocument extends Document {
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@PashaResmi0101" />
           <meta name="twitter:creator" content="@PashaResmi0101" />
-          <meta property="og:url" content="https://musicmaker.vercel.app" />
+          <meta property="og:url" content="https://cloudbot-website.vercel.app/" />
           <meta property="og:type" content="website" />
           <meta property="og:title" content="Cloud BOT" />
           <link
