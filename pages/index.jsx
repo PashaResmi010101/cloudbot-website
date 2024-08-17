@@ -90,7 +90,7 @@ Vote Cloud BOT</a>
                   <p className="text-3xl text-white font-semibold">Best Your Bot</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Cloud BOT, the best and most up-to-date bot?</p>
                 </div>
-                <img src="public/img/cloudlogo1.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://media.discordapp.net/attachments/1117200488916598844/1274336764332605571/cloudlogo1.png?ex=66c1e218&is=66c09098&hm=77709a5a549fbbc22174190d73fab5a6c7504e2a65f81cca7f35416351fd336b&=&format=webp&quality=lossless&width=473&height=473" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
