@@ -21,14 +21,14 @@ class MyDocument extends Document {
           <meta property="og:title" content="Cloud BOT" />
           <link
             rel="icon"
-            href="img/logo2.png"
+            href="https://cdn.discordapp.com/attachments/1117200488916598844/1274337148010627174/logo2.png?ex=66c1e274&is=66c090f4&hm=4007157fa47830d073f17b45d625f40740173455f72996845a6dcf1db6c965b2&"
             type="image/x-icon"
           />
           <meta
             property="og:description"
             content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
           />
-          <meta property="og:image" content="public/img/logo2.png" />
+          <meta property="og:image" content="https://cdn.discordapp.com/attachments/1117200488916598844/1274337148010627174/logo2.png?ex=66c1e274&is=66c090f4&hm=4007157fa47830d073f17b45d625f40740173455f72996845a6dcf1db6c965b2&" />
           <meta property="og:image:alt" content="Cloud BOT" />
           <meta property="og:locale" content="en_GB" />
           <meta
@@ -36,7 +36,7 @@ class MyDocument extends Document {
             content="Cloud BOT"
           />
           <meta name="theme-color" content="#087ddd" />
-          <link rel="icon" href="public/img/logo2.png" type="image/x-icon" />
+          <link rel="icon" href="https://cdn.discordapp.com/attachments/1117200488916598844/1274337148010627174/logo2.png?ex=66c1e274&is=66c090f4&hm=4007157fa47830d073f17b45d625f40740173455f72996845a6dcf1db6c965b2&" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
             rel="stylesheet"
