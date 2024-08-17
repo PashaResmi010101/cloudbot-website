@@ -7,7 +7,7 @@ const UnkownPage = () => {
         'Hey sen burada ne yapıyorsun çabuk çık buradan!'
     ];
 
-    return <ErrorPage code={404} message={messages[Math.floor(Math.random()*messages.length)] || "Page not found."} />
+    return <ErrorPage code={404} message={messages[Math.floor(Math.random()*messages.length)] || "Sayfa bulunamadı ne bekliyon amk?"} />
 }
 
 export default UnkownPage;
