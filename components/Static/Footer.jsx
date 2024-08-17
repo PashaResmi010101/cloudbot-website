@@ -11,7 +11,7 @@ export default function Footer() {
                     <div className="lg:grid lg:grid-cols-6 gap-20">
                         <div className="col-span-3">
                             <div className="flex items-center space-x-5">
-                                <img src="public/img/logo2.png" className="rounded-full w-12" />
+                                <img src="https://cdn.discordapp.com/attachments/1117200488916598844/1274337148010627174/logo2.png?ex=66c1e274&is=66c090f4&hm=4007157fa47830d073f17b45d625f40740173455f72996845a6dcf1db6c965b2&" className="rounded-full w-12" />
                                 <p className="font-semibold text-xl text-white">Cloud BOT</p>
                             </div>
                             <Menu as="div" className="relative mt-3 inline-block text-left">
